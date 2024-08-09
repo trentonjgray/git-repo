@@ -1,5 +1,3 @@
 Okay, I deleted Everthing.
 
-Inserting a line, "Copa Cabana"
-
-Added a new line
+Inserting a line, "Copa Cabana" undo
